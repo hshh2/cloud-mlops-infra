@@ -1,0 +1,5 @@
+python src/train.py --config configs/train_config.yaml
+
+
+for streamlit file: streamlit run dashboards/streamlit_app.py
+

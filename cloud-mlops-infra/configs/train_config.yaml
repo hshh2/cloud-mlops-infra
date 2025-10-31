@@ -1,0 +1,6 @@
+model_name: object_detector_v1
+epochs: 50
+batch_size: 32
+learning_rate: 0.001
+dataset_uri: s3://ml-datasets/object_detection/
+save_model_path: s3://ml-models/object_detector_v1/
